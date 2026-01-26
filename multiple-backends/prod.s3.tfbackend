@@ -1,0 +1,3 @@
+bucket = "my-bucket-name" // this bucket must be created beforehand
+key = "prod/terraform.tfstate" // any name for the key, it will pick statefile only and save it with this name
+region = "ap-south-1" // region where the S3 bucket is located and not aws provider region
