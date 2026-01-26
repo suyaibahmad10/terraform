@@ -1,7 +1,7 @@
 ## Commonly used commands:
-terraform show -> will read the statefile and show the status
-terrraform state list --> will list the resources from the statefile
-terraform providers --> show list of providers after init
+* terraform show -> will read the statefile and show the status
+* terrraform state list --> will list the resources from the statefile
+* terraform providers --> show list of providers after init
 
 
 # Multiple-backends
