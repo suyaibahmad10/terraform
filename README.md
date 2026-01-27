@@ -4,7 +4,7 @@
 * terraform providers --> show list of providers after init
 
 
-# 01-projects/static-website-project-001-ec2
+# [01-projects/static-website-project-001-ec2](https://github.com/suyaibahmad10/terraform/tree/main/01-projects/static-website-project-001-ec2)
 Illustrates ec2 full provision with terraform
 
 # 01-projects/static-website-project-002-s3
