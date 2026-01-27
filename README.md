@@ -4,21 +4,21 @@
 * terraform providers --> show list of providers after init
 
 
-# 01-projects/static-website-project-001-ec2
+# [01-projects/static-website-project-001-ec2](https://github.com/suyaibahmad10/terraform/tree/main/01-projects/static-website-project-001-ec2)
 Illustrates ec2 full provision with terraform
 
-# 01-projects/static-website-project-002-s3
+# [01-projects/static-website-project-002-s3](https://github.com/suyaibahmad10/terraform/tree/main/01-projects/static-website-project-002-s3)
 Illustrates static website hosting with s3 bucket, addition of files to bucket as well
 
-# 02-concepts/multiple-backends
+# [02-concepts/multiple-backends](https://github.com/suyaibahmad10/terraform/tree/main/02-concepts/multiple-backends)
 Illustrate how to use multiple backends, but aren't used actively.
 
-# 02-concepts/s3
+# [02-concepts/s3](https://github.com/suyaibahmad10/terraform/tree/main/02-concepts/s3)
 Illustrates how to create s3 buckets
 
-# 02-concepts/s3-with-backend
+# [02-concepts/s3-with-backend](https://github.com/suyaibahmad10/terraform/tree/main/02-concepts/02-concepts/s3-with-backend)
 Illustrates uses on terraform block with backend
 
-# 02-concepts/providers
+# [02-concepts/providers](https://github.com/suyaibahmad10/terraform/tree/main/02-concepts/02-concepts/providers)
 Ilustrates how to use same providers with multiple regions deployment
 
