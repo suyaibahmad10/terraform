@@ -16,4 +16,11 @@ Illustrates uses on terraform block with backend
 # providers
 Ilustrates how to use same providers with multiple regions deployment
 
+# static-website-project-001-ec2
+Illustrates ec2 full provision with terraform
+
+# static-website-project-002-s3
+Illustrates static website hosting with s3 bucket, addition of files to bucket as well
+
+
 
