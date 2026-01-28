@@ -1,0 +1,10 @@
+users:
+  - name:  alice
+    uid: 1001
+    shell: /bin/bash
+  - name:  bob
+    uid: 1002
+    shell: /bin/zsh
+  - name:  charlie
+    uid: 1003
+    shell: /bin/fish
