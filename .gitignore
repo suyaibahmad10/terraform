@@ -4,9 +4,5 @@
 # .tfstate files (contains sensitive data)
 *.tfstate*
 
-# exlcude all .tfvars files (contains sensitive data)
-*.tfvars
-*.tfvars.json
-
 # ignore planfiles
 *.tfplan

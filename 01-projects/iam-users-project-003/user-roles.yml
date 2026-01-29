@@ -1,0 +1,14 @@
+users:
+  - username: john
+    roles:
+      - Developer
+      - readonly
+
+  - username: jane
+    roles:
+      - admin
+      - auditor
+
+  - username: doe
+    roles:
+      - readonly
